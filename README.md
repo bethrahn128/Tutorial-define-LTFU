@@ -1,14 +1,14 @@
 # Repository contains Tutorial on how to implement the WHO definition for loss to follow-up
 
-This tutorial shares and explains the tutorial on how The International epidemiology Databases to Evaluate AIDS Southern Africa collaboration (IeDEA-SA) https://www.iedea-sa.org produced estimates for retention in care according to The World Health Organization's (WHO) https://www.who.int definition of lost to follow-up (LTF). 
+This repository shares and explains the [Tutorial pdf](DOCUMENT/ReadMe_v0.3.pdf) on how The International epidemiology Databases to Evaluate AIDS Southern Africa collaboration (IeDEA-SA) https://www.iedea-sa.org produced estimates for retention in care according to The World Health Organization's (WHO) https://www.who.int definition of lost to follow-up (LTF). 
 
-These methods were used in retention in care analyses produced by the IeDEA-WHO research-policy collaboration (2015-2017).
+These methods for implementing the WHO definition of LTFU were used in retention in care analyses produced by the IeDEA-WHO research-policy collaboration (2015-2017).
 
 ### *JVE* 2018 manuscript summarizing the IeDEA-WHO research-policy collaboration
 
 > Zaniewski E, Tymejczyk O, Kariminia A, Desmonde S, Leroy V, Ford N, et al. IeDEA – WHO Research-Policy Collaboration: contributing real-world evidence to HIV progress reporting and guideline development. [J Virus Erad. 2018;4(Suppl 2):9–15.](https://pubmed.ncbi.nlm.nih.gov/30515309/)
 
-### *JIAS* 2018 manuscript
+### *JIAS* 2018 manuscript for retention in care in sub-Saharan Africa
 > Haas AD, Zaniewski E, Anderegg N, Ford N, Fox MP, Vinikoor M, et al. Retention and mortality on antiretroviral therapy in sub-Saharan Africa: Collaborative analyses of HIV treatment programmes. [J Int AIDS Soc. 2018 Feb;21(2):e25084.](https://pubmed.ncbi.nlm.nih.gov/29479867/)
 
 
