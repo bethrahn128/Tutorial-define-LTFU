@@ -76,15 +76,6 @@ This do-file generates a stacked area plot with cumulative incidence functions o
 ## *DOCUMENT*  
 The *[Tutorial pdf](DOCUMENT/ReadMe_v0.3.pdf)* describes each do file, the dataset tables and variables, and the output figures contained in this tutorial.
 
-## *FIGURES*   
-
-The figure outputs from the individual do-files are stored in the following four sub-folders:
-* *ART_OUTCOMES*  
-* *CLOSING_DATE*  
-* *NEXT_APPOINTMENT_DATE*  
-* *VISIT_FREQUENCY*  
-
-
 ## *SIMULATED_DATA*  
 
 This dataset contains simulated data from three HIV care programs each with 5,000 patients on ART. Patients initiated ART between 1 Jan 2004 and 21 Jun 2015. The dataset is comprised of five tables (PAT table, ART table, RNA table, CD4 table, VIS table) containing the key variables used in the IeDEA-WHO global analyses of retention in care.
