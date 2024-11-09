@@ -1,4 +1,4 @@
-# Repository contains Tutorial on how to implement the WHO definition for loss to follow-up
+# Tutorial on how to implement the WHO definition for loss to follow-up
 
 This repository shares and explains the [Tutorial pdf](DOCUMENT/ReadMe_v0.3.pdf) on how The International epidemiology Databases to Evaluate AIDS Southern Africa collaboration (IeDEA-SA) https://www.iedea-sa.org produced estimates for retention in care according to The World Health Organization's (WHO) https://www.who.int definition of lost to follow-up (LTF). 
 
